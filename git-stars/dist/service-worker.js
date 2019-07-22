@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.ec6363942573bf835a4d909d68036bcd.js"
+  "precache-manifest.15e1a44e25462c09b434da3a7eb51338.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "gitstars"});
