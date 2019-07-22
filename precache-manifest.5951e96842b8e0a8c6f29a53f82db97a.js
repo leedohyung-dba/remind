@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/remind/img/javascript.de79c8f1.svg"
   },
   {
-    "revision": "08fbfec375b56a5ae76e",
-    "url": "/remind/js/app.486a3e22.js"
+    "revision": "51272677f081b488e6b3",
+    "url": "/remind/js/app.d5b3fbb2.js"
   },
   {
     "revision": "36857c2139cc8cc0330a",
@@ -44,12 +44,12 @@ self.__precacheManifest = [
     "url": "/remind/img/logo.7466711e.png"
   },
   {
-    "revision": "87f0b72536cc9212a1e7c4384c1ed6bd",
+    "revision": "3a198e1fd89853e3b81798da4dfb25b3",
     "url": "/remind/index.html"
   },
   {
-    "revision": "08fbfec375b56a5ae76e",
-    "url": "/remind/css/app.2790a8b8.css"
+    "revision": "51272677f081b488e6b3",
+    "url": "/remind/css/app.3c02bb53.css"
   },
   {
     "revision": "5f52dbefcf63c9f677ace09fcf8bc7d8",
